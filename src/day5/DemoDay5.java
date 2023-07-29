@@ -13,4 +13,9 @@ public class DemoDay5 {
 
 
 	
+	public static void getInfo() {
+		System.out.println("Hey");
+	}
+	
+	
 }
