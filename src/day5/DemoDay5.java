@@ -7,4 +7,10 @@ public class DemoDay5 {
 		System.out.println("It is sunny with a high of 90 degrees");
 	}
 
+	public static void getData(){
+				System.out.println("Hola");
+	}
+
+
+	
 }
