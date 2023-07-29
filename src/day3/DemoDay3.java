@@ -7,7 +7,7 @@ public class DemoDay3 {
 		System.out.println("Joshua Leal");
 
 		String country = "USA";
-		String state = "VA";
+		String state = "NJ";
 
 
 		
